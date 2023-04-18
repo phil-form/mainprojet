@@ -1,0 +1,3 @@
+[submodule "librray"]
+	path = librray
+	url = https://github.com/phil-form/librray.git
